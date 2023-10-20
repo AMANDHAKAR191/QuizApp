@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="accessibility_service_description">MyAccessibilityDescription</string>
+    <string name="accessibility_service_label">MyAccessibilityService</string>
+    <string name="power">power</string>
+    <string name="volume">volume</string>
+    <string name="scroll">scroll</string>
+    <string name="swipe">swipe</string>
+</resources>
